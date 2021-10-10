@@ -1,4 +1,4 @@
-Hi, 👋 I’m DivineFavour
+## Hi, 👋 I’m DivineFavour
 
 ![header](https://user-images.githubusercontent.com/74861009/136716365-024c8bbe-3fe1-4fc5-95e0-a1ba11e92752.jpg)
 
@@ -6,9 +6,15 @@ I'm 13 and I am a self-taught frontend web developer, still working on ReactJs. 
 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJs
-- 
-- 💞️ I’m looking to collaborate on Frontend Web Development
+- 👭 I'm looking to collaborate on Full Stack Web Development
 - 📫 How to reach me edehdivine042@gmail.com
+- 😸 Pronouns: She/Her
+- 🤖 Aspiring Data Scientist
+- 💃 Extrovert
+
+## Connect with me 🌏
+
+
 
 <!---
 nmasi322/nmasi322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
