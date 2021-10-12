@@ -33,8 +33,8 @@ I'm 13 and I am a self-taught frontend web developer, still working on ReactJs. 
 - [JavaScript Introduction](https://favor.hashnode.dev/javascript-introduction)
 
 ## My Github Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nmasi322&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nmasi322&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nmasi322&count_private=true&theme=react&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nmasi322&langs_count=5&theme=react)]()
 
 
 ### Check out these repos
