@@ -35,7 +35,8 @@ I'm 13 and I am a self-taught frontend web developer, still working on ReactJs. 
 ## My Github Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nmasi322&count_private=true&theme=react&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nmasi322&langs_count=5&theme=react)]()
-![GitHub followers](https://img.shields.io/github/followers/nmasi322?style=plastic)
+[![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=nmasi322)](https://github.com/nmasi322/github-contribution-stats/)
+
 
 
 ### Check out these repos
