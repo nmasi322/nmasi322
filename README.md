@@ -2,7 +2,7 @@
 
 ![header](https://user-images.githubusercontent.com/74861009/136716365-024c8bbe-3fe1-4fc5-95e0-a1ba11e92752.jpg)
 
-I'm 13 and I am a self-taught frontend web developer, still working on ReactJs. I'm hoping to finish my front-end journey by the end of 2021 and that means I should put in more effort (which I'm ready for). And welcome to my github page. You can check out my projects and don't forget to give me a star.
+I'm 13 and I am a self-taught frontend web developer, still working on ReactJs. I'm hoping to finish my front-end journey by the end of 2021 and that means I should put in more effort (which I'm ready for), I occasionally write blog posts on my hashnode profile. You can check them out [here](https://www.favor.hashnode.dev). Welcome to my github page. You can check out my projects and don't forget to give me a star.
 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJs
@@ -31,6 +31,11 @@ I'm 13 and I am a self-taught frontend web developer, still working on ReactJs. 
 ## My Recent Blog Posts
 - [My Programming Journey](https://favor.hashnode.dev/my-programming-journey)
 - [JavaScript Introduction](https://favor.hashnode.dev/javascript-introduction)
+
+## My Github Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nmasi322&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nmasi322&langs_count=5&theme=tokyonight)]()
+
 
 ### Check out these repos
 
