@@ -1,13 +1,13 @@
-## Hi, 👋 I’m DivineFavour 😸
+## Hi, 👋 I’m Divine.
 
 ![header](https://user-images.githubusercontent.com/74861009/136716365-024c8bbe-3fe1-4fc5-95e0-a1ba11e92752.jpg)
 
-I am a self-taught frontend web developer, still working on ReactJs. I'm hoping to finish my front-end journey by the end of 2021 and that means I should put in more effort (which I'm ready for), I occasionally write blog posts on my hashnode profile. You can check them out [here](https://www.favor.hashnode.dev). Welcome to my github page. You can check out my projects and don't forget to give me a star ⭐😁.
+I am a self-taught software developer, still working on ReactJs. I'm hoping to build helpful projects in the future. BTW you can check the ones here out ☺️, I occasionally write blog posts on my hashnode profile. You can check them out [here](https://www.favor.hashnode.dev). You can check out my projects and don't forget to give me a star ⭐😁.
 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJs
 - 👭 I'm looking to collaborate on Full Stack Web Development
-- 📫 How to reach me edehdivine042@gmail.com 
+- 📫 How to reach me: edehdivine042@gmail.com 
 - 😸 Pronouns: She/Her
 - 🤖 Aspiring Data Scientist
 - 💃 Extrovert
