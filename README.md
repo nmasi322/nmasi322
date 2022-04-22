@@ -2,14 +2,13 @@
 
 ![header](https://user-images.githubusercontent.com/74861009/136716365-024c8bbe-3fe1-4fc5-95e0-a1ba11e92752.jpg)
 
-I am a self-taught software developer, still working on ReactJs. I'm hoping to build helpful projects in the future. BTW you can check the ones here out ☺️, I occasionally write blog posts on my hashnode profile. You can check them out [here](https://www.favor.hashnode.dev). You can check out my projects and don't forget to give me a star ⭐😁.
+I am a self-taught fullstack developer (MERN) stack. I'm currently working on my next project - AvandaKash. BTW you can check the ones here out ☺️, I occasionally write blog posts on my hashnode blog. You can check them out [here](https://www.favor.hashnode.dev). You can check out my other projects and don't forget to give me a star ⭐😁.
 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning Mobile Development
 - 👭 I'm looking to collaborate on Full Stack Web Development
 - 📫 How to reach me: edehdivine042@gmail.com 
 - 😸 Pronouns: She/Her
-- 🤖 Aspiring Data Scientist
 - 💃 Extrovert
 
 ## Connect with me 🌏
