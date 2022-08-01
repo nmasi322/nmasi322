@@ -10,7 +10,7 @@ I am a self-taught fullstack developer (MERN) stack. I'm currently working on it
 - 💃 Extrovert
 
 ## Connect with me 🌏
-- [Twitter](https://twitter.com/Divine_Edeh1)
+- [Twitter](https://twitter.com/divine_edeh1)
 - [Linkedin](https://www.linkedin.com/in/divine-edeh/)
 - [Instagram](https://www.instagram.com/divine_edeh/)
 - [Polywork](https://www.polywork.com/favor)
