@@ -1,6 +1,6 @@
 ## Hi, 👋 I’m Divine.
 
-I am a self-taught fullstack developer (MERN) stack. I'm currently working on iterating, developing and learning more stuffs... BTW you can check the projects here out ☺️, I occasionally write blog posts on my hashnode blog. You can check them out [here](https://www.favor.hashnode.dev). You can check out my other projects and don't forget to give me a star ⭐😁.
+I am a self-taught fullstack developer (MERN) and Blockchain developer. I write smart contracts using Solidity, I compile my code using hardhat and I use Nextjs for my frontend. I'm currently working on iterating, developing and learning more stuffs... BTW you can check the projects here out ☺️, I occasionally write blog posts on my hashnode blog. You can check them out [here](https://www.favor.hashnode.dev). You can check out my other projects and don't forget to give me a star ⭐😁.
 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Mobile Development
