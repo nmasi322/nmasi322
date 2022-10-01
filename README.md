@@ -17,7 +17,7 @@ I am a self-taught fullstack developer (MERN) and Blockchain developer. I write 
 
 ## Stats 👩‍💻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmasi322&layout=compact&theme=tokyonight)
-![Divine's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmasi322&show_icons=true&theme=dark)
+[![Divine's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmasi322&show_icons=true&theme=tokyonight)
 
 [![wakatime](https://wakatime.com/badge/user/d56946e6-ea1a-4912-b46f-6ac69e2e9dac.svg)](https://wakatime.com/@d56946e6-ea1a-4912-b46f-6ac69e2e9dac)
 
