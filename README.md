@@ -1,14 +1,6 @@
 ## I’m Divine.
 
-I write code. server-side, client-side, blockchain you name it. i'm always open to collab. ping me on twitter @divine_ede1
-
-## Connect with me 🌏
-- [Twitter](https://twitter.com/divine_edeh1)
-- [Linkedin](https://www.linkedin.com/in/divine-edeh/)
-- [Instagram](https://www.instagram.com/divine_edeh/)
-- [Polywork](https://www.polywork.com/favor)
-- [Hashnode](https://hashnode.com/@Favor)
-- [Dev.to](https://dev.to/favor)
+I write code. server-side, client-side, blockchain you name it. i'm always open to collab. ping me on Twitter](https://twitter.com/divine_edeh1) 
 
 ## Stats 👩‍💻
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmasi322&layout=compact&theme=tokyonight)
