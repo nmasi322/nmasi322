@@ -1,11 +1,6 @@
-## Hi, 👋 I’m Divine.
+## I’m Divine.
 
-I am a self-taught fullstack developer (MERN) and Blockchain developer. I write smart contracts using Solidity, I compile my code using hardhat and I use Nextjs for my frontend. 
-
-- 👀 I’m interested in Web and Blockachin Development
-- 👭 I'm looking to collaborate on Blockchain based projects 🚀
-- 📫 email: edehdivine042@gmail.com 
-- 😸 Pronouns: She/Her
+I write code. server-side, client-side, blockchain you name it. i'm always open to collab. ping me on twitter @divine_ede1
 
 ## Connect with me 🌏
 - [Twitter](https://twitter.com/divine_edeh1)
