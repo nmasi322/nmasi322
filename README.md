@@ -1,6 +1,6 @@
 ## I’m Divine.
 
-I write code. server-side, client-side, blockchain you name it. i'm always open to collab. ping me on Twitter](https://twitter.com/divine_edeh1) 
+I write code. server-side, client-side, blockchain you name it. i'm always open to collab. ping me on [Twitter](https://twitter.com/divine_edeh1) 
 
 ## Stats 👩‍💻
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmasi322&layout=compact&theme=tokyonight)
