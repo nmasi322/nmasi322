@@ -1,4 +1,4 @@
-## I’m Divine.
+## i’m divine.
 
 everyday, is a battle with my laptop trying to see who gives up first. ping me on [Twitter](https://twitter.com/divine_edeh1) 
 
