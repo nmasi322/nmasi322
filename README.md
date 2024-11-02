@@ -1,6 +1,6 @@
 ## I’m Divine.
 
-Everyday, is a battle with my laptop trying to see who gives up first. ping me on [Twitter](https://twitter.com/divine_edeh1) 
+everyday, is a battle with my laptop trying to see who gives up first. ping me on [Twitter](https://twitter.com/divine_edeh1) 
 
 [![wakatime](https://wakatime.com/badge/user/d56946e6-ea1a-4912-b46f-6ac69e2e9dac.svg)](https://wakatime.com/@d56946e6-ea1a-4912-b46f-6ac69e2e9dac)
 
