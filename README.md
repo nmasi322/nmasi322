@@ -1,6 +1,6 @@
 ## i’m divine.
 
-everyday, is a battle with my laptop trying to see who gives up first. ping me on [Twitter](https://twitter.com/divine_edeh1) 
+i'm not passionate about building anything o, but i get the work done(fast)
 
 [![wakatime](https://wakatime.com/badge/user/d56946e6-ea1a-4912-b46f-6ac69e2e9dac.svg)](https://wakatime.com/@d56946e6-ea1a-4912-b46f-6ac69e2e9dac)
 
